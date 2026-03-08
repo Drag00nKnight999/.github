@@ -18,7 +18,7 @@ I'm a Bloxd.io player and a game developer on Scratch.
  
  [Staging.bloxd.io Scratch Edition](https://github.com/Drag00nKnight999/Staging.bloxd.io-Scratch-Edition)
 
-
+ [Game-Nexus](https://github.com/Drag00nKnight999/Game-Nexus)
 
  ## Links:
  
