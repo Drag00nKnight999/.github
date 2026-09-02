@@ -8,10 +8,6 @@ I'm a Bloxd.io player and a game developer on Scratch.
 
 ## What I'm working on:
 
- [Marty-Games website](https://github.com/marty-games/marty-games.github.io)
- 
- Bloxd.io SMP
-
 
 
 ## Check out my repositories:
