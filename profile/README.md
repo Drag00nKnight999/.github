@@ -18,6 +18,8 @@ I'm a Bloxd.io player and a game developer on Scratch.
 
  [Game-Nexus](https://github.com/Drag00nKnight999/Game-Nexus)
 
+ [BloxdVids](https://github.com/Drag00nKnight999/BloxdVids)
+
  ## Links:
  
  [Github site](https://Drag00nKnight999.github.io)
