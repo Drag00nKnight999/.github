@@ -26,7 +26,7 @@ I'm a Bloxd.io player and a game developer on Scratch.
  
  [Scratch Account](https://scratch.mit.edu/users/Drag00nKnight_999/)
  
- [Bloxd.io Wiki](https://bloxd-io-creepypasta.fandom.com/wiki/User:Drag00nKnight_999)
+ [Bloxd.io Wiki](https://bloxd-io.fandom.com/wiki/User:Drag00nKnight_999)
  
  [Replit](https://replit.com/@Drag00nKnight)
 
